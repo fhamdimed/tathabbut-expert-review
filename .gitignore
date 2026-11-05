@@ -1,0 +1,14 @@
+# Expert data, exports and backups — DO NOT COMMIT
+tathabbut_expert_rule_records_*.csv
+tathabbut_expert_rule_records_backup_*.json
+tathabbut_reviewed_cases_*.csv
+tathabbut_reviewed_cases_backup_*.json
+expert_rule_records.csv
+reviewed_cases.csv
+review_notes.md
+source_passage_index.csv
+fiqh_validation/
+
+# Local / OS files
+.DS_Store
+Thumbs.db
